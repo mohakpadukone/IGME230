@@ -1,4 +1,4 @@
-# Space Flight
+# Command Pluto!
 ## I. High Concept
 Travel across the solar system overcoming various obstacles to Pluto , to inform it is not considered planet anymore.
 
@@ -29,9 +29,11 @@ The Esthetic of this game is aimed for being designed flat graphic with a blend 
 
 ## VI. Gameplay
 - Mechanics
+
 The player can control the ship to dodge aesteroids and set a proper trajectory across the universe
 
 -Controls
+
 Keyboard: Control the ship
 Mouse Click: Interact with objects in game and move forward in the story
 
@@ -40,3 +42,13 @@ Mouse Click: Interact with objects in game and move forward in the story
 Game is under development
 
 ## VIII. About developer
+Name: Mohak Padukone
+
+Major: NMID 
+
+Year: Sophomore
+
+Skill: Design, Adobe Creative suite, HTML5, CSS, C#.
+
+Interests: Film, Music, Astrophysics, Psychology.
+
