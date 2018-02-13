@@ -30,12 +30,12 @@ The Esthetic of this game is aimed for being designed flat graphic with a blend 
 ## VI. Gameplay
 - Mechanics
 
-The player can control the ship to dodge aesteroids and set a proper trajectory across the universe
+   The player can control the ship to dodge aesteroids and set a proper trajectory across the universe.
 
--Controls
+- Controls
 
-Keyboard: Control the ship
-Mouse Click: Interact with objects in game and move forward in the story
+   Keyboard: Control the ship
+   Mouse Click: Interact with objects in game and move forward in the story
 
 ## VII. Screenshots
 **Coming soon**
